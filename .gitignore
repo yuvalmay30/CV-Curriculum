@@ -3,3 +3,5 @@ Introduction to Computer Vision - Udacity/.idea/*
 .idea/*
 Introduction to Computer Vision - Udacity/.idea/vcs.xml
 .idea/vcs.xml
+*.pyc
+venv/*
